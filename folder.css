@@ -1,0 +1,71 @@
+#sim{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+#mario{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: center;
+    margin:auto;
+    width: 250px;
+    margin-top: 20px;
+}
+.sim-card{
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    justify-content: center;
+    margin:auto;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.ecd{
+    background-color: blue;
+    color: black;
+    display: flex;
+    margin:auto;
+    margin-bottom: 100px;
+    width: 20px;
+    justify-content: center;
+    margin-top: 20px; 
+}
+.WACTH{
+    background-color: blue;
+   color: black;
+   display: flex; 
+   margin:auto;
+   height: 30px;
+   margin-bottom: 50px;
+   width: 200px;
+   justify-content: center;
+   margin-top: 30px
+}
+.me{
+    background-color:gray
+}
+.KING{
+    background-color: red;
+    color: black;
+    display: flex;
+    height: 30px;
+    margin-bottom: 20px;
+    width: 300px;
+    justify-content: center;
+    margin-top: 30px;
+}
+.sim{
+    border-radius: 20px;
+    height: 50px;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.myimg{
+    border-radius: 200px;
+    height: 200px;
+    width: 200px;
+}
+
